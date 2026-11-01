@@ -1,0 +1,11 @@
+experiment_id,brand,journey,problem,hypothesis,experiment,primary_kpi,impact,confidence,ease,ice_score,priority
+EXP01,Ocado,Weekly Shopping,Slow category loading,Improving category load speed may reduce abandonment,Optimise category page images and scripts,Category to Product CTR,9,8,5,7.33,High
+EXP02,Ocado,Weekly Shopping,Slow search experience,Faster search may increase product discovery,Reduce search JavaScript and prioritise product rendering,Search to Product CTR,9,7,5,7.00,High
+EXP03,Ocado,Checkout,Slow basket loading,Faster basket access may reduce checkout friction,Optimise basket page resources,Basket to Checkout Rate,9,7,4,6.67,High
+EXP04,Sainsburys,Dinner Mission,Search page performance,Improving dinner search responsiveness may increase product exploration,Optimise ready meal search rendering,Search to Product CTR,8,7,6,7.00,High
+EXP05,Sainsburys,Weekly Shopping,Login wall friction,Reducing authentication friction may improve checkout progression,Test clearer login and guest journey messaging,Login Completion Rate,8,5,7,6.67,Medium
+EXP06,Ocado,Acquisition,Promotion-led creative mix,Recipe creatives may attract high-intent dinner shoppers,Test recipe inspiration ads against discount-led ads,Landing Page View Rate,8,5,7,6.67,Medium
+EXP07,Tesco,Acquisition,Recipe creative opportunity,Recipe content may attract dinner shoppers,Test recipe video against product-only creative,Landing Page View Rate,7,5,8,6.67,Medium
+EXP08,Ocado,CRM,First order retention,Personalised replenishment reminders may increase repeat orders,Test replenishment email timing,Second Order Rate,9,4,6,6.33,Medium
+EXP09,Sainsburys,CRM,Weekly shopping retention,Personalised weekly basket reminders may increase repeat purchases,Test weekly basket reminder emails,Repeat Purchase Rate,8,4,7,6.33,Medium
+EXP10,Ocado,Acquisition,Discount dependency,Value messaging may attract customers without heavy promotions,Test convenience messaging against percentage discounts,Qualified Visit Rate,8,5,7,6.67,Medium

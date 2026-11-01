@@ -1,0 +1,11 @@
+brand,scenario,page_type,url,performance_score,fcp_s,tbt_ms,speed_index_s,lcp_s,cls,notes
+Ocado,weekly,category,"https://www.ocado.com/categories",32,4.1,1630,10.1,31.5,0,"Very high LCP; heavy page."
+Ocado,dinner,category,"https://www.ocado.com/categories/fresh-chilled-food/brands-we-love/prepared-meals-easy-cooking/78b865b7-edcd-47a8-9b83-fdfccb38d8a7",33,4.1,1420,9.0,24.6,0,"Category page performance still low."
+Ocado,weekly,search,"https://www.ocado.com/search?q=milk",34,3.8,1410,8.2,24.7,0,"Search results: low performance; high LCP."
+Ocado,weekly,basket,"https://www.ocado.com/basket",33,3.9,1580,8.1,28.8,0,"Basket step is slow; impacts checkout completion."
+Ocado,dinner,product,"https://www.ocado.com/products/charlie-bigham-s-spanish-chicken-roasted-potatoes-for-2/234398011",37,3.9,940,10.6,11.4,0,"Product is better than other Ocado pages, but still low."
+Sainsbury's,weekly,home,"https://www.sainsburys.co.uk/",61,2.9,360,2.9,10.6,0.038,"Much stronger baseline than Ocado."
+Sainsbury's,dinner,search,"https://www.sainsburys.co.uk/groceries/search?searchTerm=ready%20meals&aka=1",36,3.0,1580,8.7,8.8,0,"Lighthouse showed cache warning; still usable."
+Sainsbury's,weekly,product,"https://www.sainsburys.co.uk/groceries/product/cravendale-filtered-fresh-semi-skimmed-milk-2l-fresher-for-longer",56,2.0,670,3.0,9.7,0,"Good product-page performance vs Ocado."
+Sainsbury's,weekly,login_wall,"https://account.sainsburys.co.uk/login-ui/gol/login?login_challenge=15862fb1a9cb4590b71a8c31c4206d47",54,12.1,130,12.1,17.0,0.007,"Login wall exists; measure friction separately."
+Sainsbury's,weekly,search,"https://www.sainsburys.co.uk/groceries/search?searchTerm=milk",42,2.4,3150,3.5,9.4,0,"Weekly essentials search page."
